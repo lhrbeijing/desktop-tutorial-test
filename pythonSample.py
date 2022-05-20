@@ -1,4 +1,4 @@
 print("-----------------")
 print("HELLO WORLD!")
-print("REVISE")
+print("REVISE & MERGE")
 print("-----------------")
